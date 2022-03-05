@@ -1,5 +1,5 @@
 # flutter-gomobile
-This sample Flutter app invokes a function written in Go via Flutter platform channels with Go mobile bind. Implemented only in the Android app.
+This sample Flutter app invokes a function written in Go via Flutter platform channels with Go mobile bind. Implemented only in the Android embedder app.
 
 ## How to run the app?
 
