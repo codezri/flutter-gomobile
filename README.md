@@ -8,4 +8,4 @@ This sample Flutter app invokes a function written in Go via Flutter platform ch
 - Run the Flutter app with `flutter run`
 
 ## License
-MIT
+[MIT](LICENSE)
